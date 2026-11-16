@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon US 标准上架流程"
+  short_description: "从产品图片事实核验、消费者定位和图像迭代，到真实 ABA 关键词及完整上架文案"
+  default_prompt: "请使用 $amazon-us-launch，按三阶段 SOP 为我的 Amazon US 商品建立事实表、图片方案和基于真实 ABA 的完整上架内容。"
