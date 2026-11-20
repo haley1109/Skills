@@ -1,0 +1,4 @@
+interface:
+  display_name: "亚马逊词库搭建"
+  short_description: "从 ABA 和西柚反查建立待筛查词库，按搜索结果判定相关性并提取否词"
+  default_prompt: "请用 $amazon-keyword-workbook 分析这个商品，结合我的 ABA 表完成建库、相关性筛查和否词归因。"

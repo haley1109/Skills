@@ -2,7 +2,7 @@
 
 This repository stores one source folder per Agent Skill under `skills/` and one portable ZIP per Skill under `dist/`. Each ZIP has `SKILL.md` at its root.
 
-Current scope: 90 Haley personal skill library entries and the separate `amazon-us-launch` workspace Skill. `listing-look-and-understand` is version 1.1.1. The public Amazon US Skill contains an empty `references/project-memory.md` template; private TOPWAVE preferences and case notes are omitted. No Amazon page captures, browser profiles, credentials, or account tokens are included.
+The library includes the original 90 Haley personal skills, `amazon-us-launch`, and [amazon-keyword-workbook](skills/amazon-keyword-workbook/SKILL.md) for building an Amazon keyword workbook from ABA, competitor traffic, and search-result evidence. `listing-look-and-understand` is version 1.1.1. The public Amazon US Skill contains an empty `references/project-memory.md` template; private TOPWAVE preferences and case notes are omitted. No Amazon page captures, browser profiles, credentials, or account tokens are included.
 
 Many Skills depend on host tools, connected services, network access, or local packages that are not bundled here. Copying the instruction files does not transfer those integrations or permissions.
 
